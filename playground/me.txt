@@ -1,0 +1,6 @@
+{{#user}}
+Name: Krishna Rahini
+Skills: HTML, CSS, JS, java, reactjs selenium
+Email: krishnarahini92@gmail.com
+{{/user}
+
